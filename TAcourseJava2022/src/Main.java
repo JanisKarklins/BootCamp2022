@@ -1,5 +1,7 @@
-public class Main {
+public class Main { // class declaration
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        int A =10;
+        A =20+20;
+        System.out.println(A);
     }
 }
