@@ -7,9 +7,9 @@ public class FindLargest {
         int b = 150;
 
         if(a>b)
-            System.out.println(a +" is greateer than "+b);
+            System.out.println(a +" is greater than "+b);
         else
-            System.out.println(b +" is greateer than "+a);
+            System.out.println(b +" is greater than "+a);
 
         }
 }
