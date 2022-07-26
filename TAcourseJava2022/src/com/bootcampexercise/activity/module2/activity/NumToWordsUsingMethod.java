@@ -2,7 +2,7 @@ package com.bootcampexercise.activity.module2.activity;
 
 public class NumToWordsUsingMethod {
     public static void main(String[] args) { //activity 9
-        // complete the code to print text value of 8, 9 and 10
+        // complete the code to print text value of 1, 3 and 5
 
         printMyWord(1);
         printMyWord(3);
