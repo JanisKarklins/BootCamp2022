@@ -20,7 +20,7 @@ public class MultiplicationTable { //activity 6
             // Table from 1 to 10
             for ( i = 11; i <= 20; i++) {
                 System.out.println("*** Table of "+i + " ***");
-                for ( j = 0; j <= 9; j++) {
+                for ( j = 0; j <= 10; j++) {
                     System.out.println(i + "X" + j +" = " + i*j);
                 }
             }
