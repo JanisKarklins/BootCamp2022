@@ -21,7 +21,7 @@ public class SetActivity {
         mySet.add("Inga");
 
         //TODO: 2 - Call print method to print the set passed as its parameter.
-        
+
         print(mySet);
         TreeSet myTreeSet = new TreeSet(mySet);
         print(myTreeSet);
