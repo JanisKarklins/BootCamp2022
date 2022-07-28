@@ -14,7 +14,7 @@ public class ListActivity {
         myList.add("Janis");
         myList.add("Jana");
         myList.add(0, "Andris");
-        
+
         //TODO: 2 - Call print method to print the list passed as its parameter.
 
         ListActivity obj = new ListActivity();
