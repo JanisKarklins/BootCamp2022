@@ -35,7 +35,7 @@ public class Employee extends Person{
 
     public String introduce(){
         String One = "My name is " + name + " and I am " + age + " years old.";
-        String Two = "I am work as "+ jobTitle + " in "+ company + " and my salary is "+ salary;
+        String Two = "I work as "+ jobTitle + " in "+ company + " and my salary is "+ salary;
         return One + Two;
     }
 }
