@@ -3,19 +3,21 @@ package com.bootcampexercise.activity.module10.Exam;
 import com.bootcampexercise.activity.module10.Exam.Activity1.Person;
 
 public class Employee extends Person{
-    private String company;
     private String jobTitle;
+    private String company;
     private double salary;
 
     public Employee()
     {
-        this.jobTitle = "X";
-        this.company = "X";
+        this.jobTitle = "Unknown";
+        this.company = "Unknown";
         this.salary = 0;
     }
+
     public String getJobTitle() {
         return this.jobTitle;
     }
+
     public void setJobTitle(String jobTitle) {
         this.jobTitle = jobTitle;
     }
