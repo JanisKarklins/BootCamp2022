@@ -42,5 +42,4 @@ public class CalculatorClient {
         //TODO Subtract numbers should be 10 and 2
         //TODO Subtract result should be printed in similar style as multiply and addition
     }
-
 }
